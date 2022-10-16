@@ -3,7 +3,7 @@
 ## Description
 
 This Prework Study Guide was cerated for bootcamp students who were going through the Prework. 
-It contains notes  on
+It contains notes on
 - HTML
 - CSS
 - Git
@@ -12,7 +12,7 @@ It contains notes  on
 
 ## Installation
 
-N/A
+N/A 
 
 ## Usage
 
@@ -21,7 +21,7 @@ On this webpage each section contains notes about a certain topic, like HTML, CS
 
 ## Credits
 
-N/A
+N/A 
 
 ## License
 
